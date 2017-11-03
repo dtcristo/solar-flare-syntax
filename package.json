@@ -1,9 +1,9 @@
 {
-  "name": "solar-flare-syntax",
+  "name": "solarflare-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Atom syntax theme using the Base16 Solar Flare palette",
-  "repository": "https://github.com/dtcristo/solar-flare-syntax",
+  "description": "Atom syntax theme using the Base16 Solarflare palette",
+  "repository": "https://github.com/dtcristo/solarflare-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
